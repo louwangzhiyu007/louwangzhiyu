@@ -1,3 +1,42 @@
-# louwangzhiyu
-免费机场VPN
-✈️免费机场 / 免费VPN -> 自动获取免clash/v2ray/trojan/sr/ssr 订阅链接，间隔12小时持续更新 | 科学上网| 翻墙
+### 客户端下载链接
+
+
+
+### 订阅购买
+
+
+
+![](./images/购买订阅001.png)
+
+
+
+![](./images/购买订阅002.png)
+
+
+
+![](images/购买订阅003.png)
+
+
+
+![](images/购买订阅004.png)
+
+
+
+### 订阅导入
+
+
+
+![](images/订阅链接导入001.png)
+
+
+
+![](images/订阅链接导入002.png)
+
+
+
+![](images/订阅链接导入003.png)
+
+
+
+![](images/订阅链接导入004.png)
+
